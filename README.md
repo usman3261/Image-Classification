@@ -4,7 +4,7 @@ Screenshot:
 ![alt text](<Screenshot 2026-03-17 at 10.57.22 PM.png>)
 
 Project Demonstration:
-<video controls src="ImageClassification.mov" title="Title"></video>
+https://github.com/usman3261/Image-Classification/issues/1#issue-4090282217
 
 
 ## Image Classifier
